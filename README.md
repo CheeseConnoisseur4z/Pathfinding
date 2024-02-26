@@ -1,2 +1,2 @@
 # Pathfinding
- basic pathfinding algorithm with JSwing interface
+ basic pathfinding algorithm (with dynamic programming :O) with JSwing interface
